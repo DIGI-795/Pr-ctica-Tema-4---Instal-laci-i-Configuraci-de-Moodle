@@ -10,3 +10,5 @@ El objectiu d'aquesta práctica trata sobre fer un portal de moodle com vulguem 
 Ara anirem al perfil per poder canviar la contrasenya y el correu electrònic, li donarem a la nostra imatge a dalt a la dreta, li donem a preferències y després a editar perfil:
 
 ![imagen1](imagen1.png)
+
+## 2.2. Configuració del lloc
