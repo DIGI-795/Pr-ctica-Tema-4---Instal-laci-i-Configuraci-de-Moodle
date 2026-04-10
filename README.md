@@ -8,4 +8,4 @@ El objectiu d'aquesta práctica trata sobre fer un portal de moodle com vulguem 
 
 Ara anirem al perfil per poder canvair la contrasenya y el correu electrònic, li donarem a la nostra imatge a dalt a la dreta:
 
-![imagen1](URL de la imatge)
+![imagen1](https://github.com/DIGI-795/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/54dd72d3c7e5ca25747e4ab10d173a30a4a045c7/imagen1)
