@@ -8,3 +8,4 @@ El objectiu d'aquesta práctica trata sobre fer un portal de moodle com vulguem 
 
 Ara anirem al perfil per poder canvair la contrasenya y el correu electrònic, li donarem a la nostra imatge a dalt a la dreta:
 
+![imagen1](URL de la imatge)
