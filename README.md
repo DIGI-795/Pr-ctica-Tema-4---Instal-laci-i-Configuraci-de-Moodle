@@ -15,8 +15,10 @@ Ara anirem al perfil per poder canviar la contrasenya y el correu electrònic, l
 
 Primer entrarem a administració del lloc a página principal del lloc a ajustaments de la página principal del lloc, una vegada a dins canviarem el nom del lloc web i el rol per defecte en la página principal del lloc per el d'invitat:
 
-![imagen1](imagen2.png)
+![imagen2](imagen2.png)
 
-![imagen1](imagen3.png)
+![imagen3](imagen3.png)
 
-Després anirem a administració del lloc 
+Després anirem a administració del lloc i buscarem ubicació, li donem a ajustaments de ubicació i posem la nostra franja horària correcta i li donem a guardar cambis:
+
+![imagen1](imagen4.png)
