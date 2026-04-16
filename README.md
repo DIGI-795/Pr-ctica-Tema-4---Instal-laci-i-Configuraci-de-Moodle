@@ -23,6 +23,10 @@ Després anirem a administració del lloc i buscarem ubicació, li donem a ajust
 
 ![imagen4](imagen4.png)
 
-En administració del lloc buscarem idioma i anirem a paquets d'idioma instalarem alguns paquets d'idioms el que vulguem:
+En administració del lloc buscarem idioma i anirem a paquets d'idioma instalarem alguns paquets d'idioms el que vulguem on posa instalar paquets d'idiomes seleccionats:
 
 ![imagen5](imagen5.png)
+
+Entrarem administració del lloc buscarem seguretat i a polítiques de seguretat del lloc, posem una longitud de contrasenya mínima de  8 caràcters, incloent majúscules, minúscules i números:
+
+![imagen6](imagen6.png)
