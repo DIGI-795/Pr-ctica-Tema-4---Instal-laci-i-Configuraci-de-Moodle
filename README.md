@@ -27,6 +27,7 @@ En administració del lloc buscarem idioma i anirem a paquets d'idioma instalare
 
 ![imagen5](imagen5.png)
 
-Entrarem administració del lloc buscarem seguretat i a polítiques de seguretat del lloc, posem una longitud de contrasenya mínima de  8 caràcters, incloent majúscules, minúscules i números:
+Entrarem administració del lloc buscarem seguretat i a polítiques de seguretat del lloc, posem una longitud de contrasenya mínima de  8 caràcters, incloent majúscules, minúscules i números, i guardem cambis:
 
 ![imagen6](imagen6.png)
+
