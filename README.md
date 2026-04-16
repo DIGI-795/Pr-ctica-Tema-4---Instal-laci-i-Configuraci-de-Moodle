@@ -21,4 +21,8 @@ Primer entrarem a administració del lloc a página principal del lloc a ajustam
 
 Després anirem a administració del lloc i buscarem ubicació, li donem a ajustaments de ubicació i posem la nostra franja horària correcta i li donem a guardar cambis:
 
-![imagen1](imagen4.png)
+![imagen4](imagen4.png)
+
+En administració del lloc buscarem idioma i anirem a paquets d'idioma instalarem alguns paquets d'idioms el que vulguem:
+
+![imagen5](imagen5.png)
