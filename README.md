@@ -33,8 +33,19 @@ Entrarem administració del lloc buscarem seguretat i a polítiques de seguretat
 
 ## 2. Creació de cursos
 
-2.1 Creeu els següents cursos A i B en els meus cursos a crear curso i el modifiquem com vulguem:
+## 2.1 Creeu els següents cursos A i B 
+
+Entreu en els meus cursos a crear curso i el modifiquem com vulguem:
 
 ![imagen7](imagen7.png)
+
+## 2.2 Exploreu les opcions de personalització dels cursos
+
+Ara editem els noms dels temes hauràn de ser 3 temes, i afegim alguna activitat, tot això el fem una vegada hem pressionat el botó de dalt a la dreta on posa mode d'edició: 
+
+![imagen8](imagen8.png)
+
+Farem lo mateix amb el curs B sol que aquest tindrà 5 temes en lloc de 3:
+
 
 
