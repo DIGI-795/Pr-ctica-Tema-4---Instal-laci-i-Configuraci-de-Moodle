@@ -47,5 +47,6 @@ Ara editem els noms dels temes hauràn de ser 3 temes, i afegim alguna activitat
 
 Farem lo mateix amb el curs B sol que aquest tindrà 5 temes en lloc de 3:
 
+![imagen9](imagen9.png)
 
 
