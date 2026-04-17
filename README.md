@@ -49,4 +49,10 @@ Farem lo mateix amb el curs B sol que aquest tindrà 5 temes en lloc de 3:
 
 ![imagen9](imagen9.png)
 
+## 3. Creació i gestió d'usuaris
 
+## 3.1 Creació manual d'usuaris
+
+Anirem a administració del lloc on posa usuaris i anirem a comptes on hi ha crear un nou usuari, una vegada hi estem allí rellenem les dades que ens demanen:
+
+![imagen10](imagen10.png)
