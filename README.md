@@ -31,3 +31,10 @@ Entrarem administració del lloc buscarem seguretat i a polítiques de seguretat
 
 ![imagen6](imagen6.png)
 
+## 2. Creació de cursos
+
+2.1 Creeu els següents cursos A i B en els meus cursos a crear curso i el modifiquem com vulguem:
+
+![imagen7](imagen7.png)
+
+
