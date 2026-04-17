@@ -41,7 +41,7 @@ Entreu en els meus cursos a crear curso i el modifiquem com vulguem:
 
 ## 2.2 Exploreu les opcions de personalització dels cursos
 
-Ara editem els noms dels temes hauràn de ser 3 temes, i afegim alguna activitat, tot això el fem una vegada hem pressionat el botó de dalt a la dreta on posa mode d'edició: 
+Ara editem els noms dels temes hauràn de ser 3 temes, i afegim alguna activitat o material, tot això el fem una vegada hem pressionat el botó de dalt a la dreta on posa mode d'edició: 
 
 ![imagen8](imagen8.png)
 
