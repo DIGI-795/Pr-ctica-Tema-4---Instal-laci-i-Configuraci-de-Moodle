@@ -56,3 +56,13 @@ Farem lo mateix amb el curs B sol que aquest tindrà 5 temes en lloc de 3:
 Anirem a administració del lloc on posa usuaris i anirem a comptes on hi ha crear un nou usuari, una vegada hi estem allí rellenem les dades que ens demanen:
 
 ![imagen10](imagen10.png)
+
+## 3.2 Creació massiva d'alumnes
+
+Genereu 10 alumnes utilitzant un arxiu CSV a administració del lloc on posa usuaris a carrega usuaris, ens decarguem el example.csv i el editem, posem els noms, els cognoms i els correus electrónics. Quan hem acabat li donem a guardar, pujem l'arxiu i ens asegurem que estigui bé la configuració abans de donar-li a pujar usuaris:
+
+![imagen11](imagen11.png)
+
+Es tendría que visualitzar així:
+
+![imagen12](imagen12.png)
