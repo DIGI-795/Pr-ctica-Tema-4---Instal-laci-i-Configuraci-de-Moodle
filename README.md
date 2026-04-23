@@ -63,6 +63,6 @@ Genereu 10 alumnes utilitzant un arxiu CSV a administració del lloc on posa usu
 
 ![imagen11](imagen11.png)
 
-Es tendría que visualitzar així:
+Es tendría que visualitzar així, també subim els usuraris i a continuar:
 
 ![imagen12](imagen12.png)
