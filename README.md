@@ -86,3 +86,7 @@ Al curs B activeu el registre manual d'usuaris (també en mètodes de matriculac
 ![imagen16](imagen16.png)
 
 ![imagen17](imagen17.png)
+
+## 4.2. Verificació
+
+![imagen18](<img width="794" height="307" alt="image" src="https://github.com/user-attachments/assets/9a98b9f7-74b8-45bc-8c1a-e792bd8c6051" />)
