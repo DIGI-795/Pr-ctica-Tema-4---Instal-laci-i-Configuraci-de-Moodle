@@ -67,7 +67,7 @@ Es tendría que visualitzar així, també subim els usuaris i a continuar:
 
 ![imagen12](imagen12.png)
 
-Ara elminarem 2 alumnes a administració del lloc on posa usuaris a comptes a accions d'usuario massives, seleccionem 2 alumnes i a baix del tot elegim esborrar i després li donem a anar:
+Ara eliminarem 2 alumnes a administració del lloc on posa usuaris a comptes a accions d'usuario massives, seleccionem 2 alumnes i a baix del tot elegim esborrar i després li donem a anar:
 
 ![imagen13](imagen13.png)
 
@@ -113,3 +113,4 @@ Afegim un logotip a administració del lloc a aparença a logotips subim una ima
 
 ![imagen22](imagen22.png)
 
+## 6. Creació de continguts i activitats
