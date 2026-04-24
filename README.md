@@ -89,4 +89,27 @@ Al curs B activeu el registre manual d'usuaris (també en mètodes de matriculac
 
 ## 4.2. Verificació
 
-![imagen18](<img width="794" height="307" alt="image" src="https://github.com/user-attachments/assets/9a98b9f7-74b8-45bc-8c1a-e792bd8c6051" />)
+![imagen18](imagen18.png)
+
+## 5. Personalització del lloc
+
+## 5.1 Canvi d'aspecte
+
+Anar a Administració del lloc a Connectors a Instal·lar complement y li donem a instalar complement des de el directori de moodle:
+
+![imagen19](imagen19.png)
+
+li donem a browse plugins instalem els plugins que vulguem després tornem al lloc d'abans, els subim i li donem a continuar tot:
+
+![imagen20](imagen20.png)
+
+Seleccioneu el tema des de administració del lloc a aparença a temes i si vulguem el configurem com vulguem a l'engranatge del tema:
+
+![imagen21](imagen21.png)
+
+## 5.2 Logotip
+
+Afegim un logotip a administració del lloc a aparença a logotips subim una imatge i gquan estiguem uardem cambis:
+
+![imagen22](imagen22.png)
+
