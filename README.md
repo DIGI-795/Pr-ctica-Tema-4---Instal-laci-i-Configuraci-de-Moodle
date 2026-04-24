@@ -67,6 +67,22 @@ Es tendría que visualitzar així, també subim els usuaris i a continuar:
 
 ![imagen12](imagen12.png)
 
-Ara elminarem 2 alumnes a administració del lloc on posa usuaris a comptes a accions d'usuario massives, seleccionem 2 alumnes y a baix del tot elegim esborrar y després li donem a anar:
+Ara elminarem 2 alumnes a administració del lloc on posa usuaris a comptes a accions d'usuario massives, seleccionem 2 alumnes i a baix del tot elegim esborrar i després li donem a anar:
 
 ![imagen13](imagen13.png)
+
+## 4. Matriculació d'usuaris als cursos
+
+## 4.1 Configuració de mètodes d'inscripció
+
+Al curs A desactiveu qualsevol mètode d'inscripció per fer-lo públic en mode d'edició a participants i on posa usuaris matriculats el cambiem per mètodes de matriculació:
+
+![imagen14](imagen14.png)
+
+Al curs B activeu el registre manual d'usuaris (també en mètodes de matriculació) i matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants en usuaris matriculats a matricular usuaris a Bob li posem rol de profesor i als alumnes els de estudiants:
+
+![imagen15](imagen15.png)
+
+![imagen16](imagen16.png)
+
+![imagen17](imagen17.png)
