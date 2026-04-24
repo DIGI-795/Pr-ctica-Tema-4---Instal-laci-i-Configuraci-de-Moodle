@@ -59,10 +59,14 @@ Anirem a administració del lloc on posa usuaris i anirem a comptes on hi ha cre
 
 ## 3.2 Creació massiva d'alumnes
 
-Genereu 10 alumnes utilitzant un arxiu CSV a administració del lloc on posa usuaris a carrega usuaris, ens decarguem el example.csv i el editem, posem els noms, els cognoms i els correus electrónics. Quan hem acabat li donem a guardar, pujem l'arxiu i ens asegurem que estigui bé la configuració abans de donar-li a pujar usuaris:
+Genereu 10 alumnes utilitzant un arxiu CSV a administració del lloc on posa usuaris a comptes a carrega usuaris, ens decarguem el example.csv i el editem, posem els noms, els cognoms i els correus electrónics. Quan hem acabat li donem a guardar, pujem l'arxiu i ens asegurem que estigui bé la configuració abans de donar-li a pujar usuaris:
 
 ![imagen11](imagen11.png)
 
 Es tendría que visualitzar així, també subim els usuraris i a continuar:
 
 ![imagen12](imagen12.png)
+
+Ara elminarem 2 alumnes a administració del lloc on posa usuaris a comptes a accions d'usuario massives, seleccionem 2 alumnes y a baix del tot elegim esborrar:
+
+![imagen13](imagen13.png)
