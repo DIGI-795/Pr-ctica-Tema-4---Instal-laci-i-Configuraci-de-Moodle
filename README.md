@@ -63,10 +63,10 @@ Genereu 10 alumnes utilitzant un arxiu CSV a administració del lloc on posa usu
 
 ![imagen11](imagen11.png)
 
-Es tendría que visualitzar així, també subim els usuraris i a continuar:
+Es tendría que visualitzar així, també subim els usuaris i a continuar:
 
 ![imagen12](imagen12.png)
 
-Ara elminarem 2 alumnes a administració del lloc on posa usuaris a comptes a accions d'usuario massives, seleccionem 2 alumnes y a baix del tot elegim esborrar:
+Ara elminarem 2 alumnes a administració del lloc on posa usuaris a comptes a accions d'usuario massives, seleccionem 2 alumnes y a baix del tot elegim esborrar y després li donem a anar:
 
 ![imagen13](imagen13.png)
