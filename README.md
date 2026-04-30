@@ -135,7 +135,7 @@ Cloneu el contingut del curs A al curs B, anem al curs B a més a reutilització
 
 ![imagen26](imagen26.png)
 
-![imagen26](imagen26.png)
+![imagen27](imagen27.png)
 
 ## 7. Qualificacions i insígnies
 
