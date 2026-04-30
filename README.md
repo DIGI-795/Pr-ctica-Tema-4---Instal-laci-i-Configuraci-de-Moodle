@@ -114,3 +114,23 @@ Afegim un logotip a administració del lloc a aparença a logotips subim una ima
 ![imagen22](imagen22.png)
 
 ## 6. Creació de continguts i activitats
+
+## 6.1 Curs A
+
+Assigneu un professor i matriculeu alumnes al curs A com hem al B abans:
+
+![imagen23](imagen23.png)
+
+Ara anem a pujar varies activitats, recursos i una tasca amb data d'entrega oberta que demani la càrrega d'un fitxer PDF:
+
+![imagen24](imagen24.png)
+
+Després de posar el nom i les instruccions de la tasca, anirem a disponibilidad i posem una data de entrega desde avui i una de venciment quan vulguem, per últim posem en tipus d'arxiu arxius de document pdf i guardem cambis:
+
+![imagen25](imagen25.png)
+
+## 6.2 Curs B
+
+Cloneu el contingut del curs A al curs B en administració del lloc a cursos a administrar cursos y categories:
+
+![imagen26](imagen26.png)
