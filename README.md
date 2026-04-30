@@ -131,6 +131,11 @@ Després de posar el nom i les instruccions de la tasca, anirem a disponibilidad
 
 ## 6.2 Curs B
 
-Cloneu el contingut del curs A al curs B en administració del lloc a cursos a administrar cursos y categories:
+Cloneu el contingut del curs A al curs B, anem al curs B a més a reutilització del curs a importar, seleccionem el curs A i li donem a continuar a tot:
 
 ![imagen26](imagen26.png)
+
+![imagen26](imagen26.png)
+
+## 7. Qualificacions i insígnies
+
