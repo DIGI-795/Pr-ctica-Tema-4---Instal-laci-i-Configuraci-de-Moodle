@@ -139,3 +139,13 @@ Cloneu el contingut del curs A al curs B, anem al curs B a més a reutilització
 
 ## 7. Qualificacions i insígnies
 
+## 7.1 Qualificacions
+
+Completeu totes les tasques evaluables amb un usuari alumne en qualsevol del dos cursos i guardem cambis:
+
+![imagen28](imagen28.png)
+
+Entrarem a la nostra compte una altre vegada i anirem al curs on anem completat la tasca i anem a clasificacions, cambiem l'informe del calificador per configuració calificacions:
+
+![imagen29](imagen29.png)
+
