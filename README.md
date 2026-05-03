@@ -151,8 +151,30 @@ Entrarem a la nostra compte una altre vegada i anirem al curs on anem completat 
 
 ## 7.2 Insígnies
 
-Crearem una insignia per donarse-la al alumne en administració de lloc a insignies a añadir nova insignia i posem com vulguem la insignia:
+Crearem una insignia per donarse-la al alumne en administració de lloc a insignies a añadir nova insignia i posem com vulguem la insignia i li donem a crear insignia:
 
 ![imagen30](imagen30.png)
 
+## 8 Qüestionaris 
 
+## 8.1 Creeu un qüestionari amb preguntes del banc de preguntes
+
+Anem a qualsevol dels dos cursos i fem un qüestionari de algunes preguntes del banc de preguntes i organizeu les preguntes en categoríes diferents, també configurem el qüestionari com vulguem:
+
+![imagen31](imagen31.png)
+
+Després de crear el qüestionari, entrem a agregar preguntes i després li donem a agregar pregunta aleatoria o pregunta nova i posem com vulguem las preguntes si escogim pregunta nova:
+
+![imagen32](imagen32.png)
+
+## 9 Seguretat
+
+## 9.1 Bannegeu una IP específica i apliqueu una política de seguretat
+
+Anem a administració del lloc a seguretat a bloqueador de ip i bloqueem una ip específica:
+
+![imagen33](imagen33.png)
+
+Per posar la política de seguretat, al mateix lloc de seguretat anem a polítiques de seguretat del lloc, aquí configurarem la nostra política de seguretat per exemple jo he deixat la default però he cambiat la part de forzar als usuaris a iniciar sessió a un sí per tenir una millor seguretat a la web, una vegada hem acabat li donem a guardar cambis.
+
+![imagen34](imagen34.png)
