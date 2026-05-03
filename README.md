@@ -149,3 +149,10 @@ Entrarem a la nostra compte una altre vegada i anirem al curs on anem completat 
 
 ![imagen29](imagen29.png)
 
+## 7.2 Insígnies
+
+Crearem una insignia per donarse-la al alumne en administració de lloc a insignies a añadir nova insignia i posem com vulguem la insignia:
+
+![imagen30](imagen30.png)
+
+
